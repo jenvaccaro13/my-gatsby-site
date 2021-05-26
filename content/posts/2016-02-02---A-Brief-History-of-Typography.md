@@ -1,5 +1,5 @@
 ---
-title: "A Brief History of Typography"
+title: "Nvidia and Cloudflare Partner to Bring AI to the Edge"
 date: "2016-02-02T22:40:32.169Z"
 template: "post"
 draft: false
