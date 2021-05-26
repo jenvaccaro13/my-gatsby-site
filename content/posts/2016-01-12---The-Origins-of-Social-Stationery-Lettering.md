@@ -1,6 +1,6 @@
 ---
 title: Cloudflare Pages Integrates with Cloudflare Access
-date: "2021-5-01T22:40:32.169Z"
+date: "2021-05-01T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "the-origins-of-social-stationery-lettering"
