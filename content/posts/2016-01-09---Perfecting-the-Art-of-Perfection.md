@@ -1,6 +1,6 @@
 ---
 title: Workers Unbound are now in GA
-date: "2021-09-01T23:46:37.121Z"
+date: "2021-03-01T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "perfecting-the-art-of-perfection"
