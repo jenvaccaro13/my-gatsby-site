@@ -1,5 +1,5 @@
 ---
-title: Perfecting the Art of Perfection
+title: Workers Unbound are now in GA
 date: "2021-09-01T23:46:37.121Z"
 template: "post"
 draft: false
