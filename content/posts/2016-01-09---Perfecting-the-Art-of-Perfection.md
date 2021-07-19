@@ -1,5 +1,5 @@
 ---
-title: Workers Unbound is now GA
+title: Workers Unbound is now General Availablity 
 date: "2021-03-01T23:46:37.121Z"
 template: "post"
 draft: false
